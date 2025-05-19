@@ -2,6 +2,8 @@
 ##Ingredients
 ##Instructions
 *Avocado
+*corn
+*garlic
 *Lime
 *salt
 *black pepper
@@ -11,3 +13,4 @@
 =======
 #Black pepper is a must for guacamole
 >>>>>>> a5b0ab3f1d9a03bc6d0369180d229408b360fdb3
+##nothing to addd
